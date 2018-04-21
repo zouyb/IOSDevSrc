@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
+      "filename" : "meizi2.jpg",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "img2@2x.png",
       "scale" : "2x"
     },
     {

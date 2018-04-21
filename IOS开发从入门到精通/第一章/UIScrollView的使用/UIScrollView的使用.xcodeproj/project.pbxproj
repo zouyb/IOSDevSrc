@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		94BE07D4208B064B00BF2567 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 94BE07D3208B064B00BF2567 /* AppDelegate.m */; };
-		94BE07D7208B064B00BF2567 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94BE07D6208B064B00BF2567 /* ViewController.m */; };
-		94BE07DA208B064B00BF2567 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94BE07D8208B064B00BF2567 /* Main.storyboard */; };
-		94BE07DC208B064B00BF2567 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94BE07DB208B064B00BF2567 /* Assets.xcassets */; };
-		94BE07DF208B064B00BF2567 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94BE07DD208B064B00BF2567 /* LaunchScreen.storyboard */; };
-		94BE07E2208B064B00BF2567 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 94BE07E1208B064B00BF2567 /* main.m */; };
+		94AAF0DF20879079005243A0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 94AAF0DE20879079005243A0 /* AppDelegate.m */; };
+		94AAF0E220879079005243A0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94AAF0E120879079005243A0 /* ViewController.m */; };
+		94AAF0E520879079005243A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94AAF0E320879079005243A0 /* Main.storyboard */; };
+		94AAF0E720879079005243A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94AAF0E620879079005243A0 /* Assets.xcassets */; };
+		94AAF0EA20879079005243A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94AAF0E820879079005243A0 /* LaunchScreen.storyboard */; };
+		94AAF0ED20879079005243A0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 94AAF0EC20879079005243A0 /* main.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		94BE07CF208B064B00BF2567 /* 启动引导页.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "启动引导页.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		94BE07D2208B064B00BF2567 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		94BE07D3208B064B00BF2567 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		94BE07D5208B064B00BF2567 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		94BE07D6208B064B00BF2567 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		94BE07D9208B064B00BF2567 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		94BE07DB208B064B00BF2567 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		94BE07DE208B064B00BF2567 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		94BE07E0208B064B00BF2567 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		94BE07E1208B064B00BF2567 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		94AAF0DA20879079005243A0 /* UIScrollView的使用.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UIScrollView的使用.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		94AAF0DD20879079005243A0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		94AAF0DE20879079005243A0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		94AAF0E020879079005243A0 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		94AAF0E120879079005243A0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		94AAF0E420879079005243A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		94AAF0E620879079005243A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		94AAF0E920879079005243A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		94AAF0EB20879079005243A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94AAF0EC20879079005243A0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		94BE07CC208B064B00BF2567 /* Frameworks */ = {
+		94AAF0D720879079005243A0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,74 +39,74 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		94BE07C6208B064B00BF2567 = {
+		94AAF0D120879079005243A0 = {
 			isa = PBXGroup;
 			children = (
-				94BE07D1208B064B00BF2567 /* 启动引导页 */,
-				94BE07D0208B064B00BF2567 /* Products */,
+				94AAF0DC20879079005243A0 /* UIScrollView的使用 */,
+				94AAF0DB20879079005243A0 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		94BE07D0208B064B00BF2567 /* Products */ = {
+		94AAF0DB20879079005243A0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				94BE07CF208B064B00BF2567 /* 启动引导页.app */,
+				94AAF0DA20879079005243A0 /* UIScrollView的使用.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		94BE07D1208B064B00BF2567 /* 启动引导页 */ = {
+		94AAF0DC20879079005243A0 /* UIScrollView的使用 */ = {
 			isa = PBXGroup;
 			children = (
-				94BE07D2208B064B00BF2567 /* AppDelegate.h */,
-				94BE07D3208B064B00BF2567 /* AppDelegate.m */,
-				94BE07D5208B064B00BF2567 /* ViewController.h */,
-				94BE07D6208B064B00BF2567 /* ViewController.m */,
-				94BE07D8208B064B00BF2567 /* Main.storyboard */,
-				94BE07DB208B064B00BF2567 /* Assets.xcassets */,
-				94BE07DD208B064B00BF2567 /* LaunchScreen.storyboard */,
-				94BE07E0208B064B00BF2567 /* Info.plist */,
-				94BE07E1208B064B00BF2567 /* main.m */,
+				94AAF0DD20879079005243A0 /* AppDelegate.h */,
+				94AAF0DE20879079005243A0 /* AppDelegate.m */,
+				94AAF0E020879079005243A0 /* ViewController.h */,
+				94AAF0E120879079005243A0 /* ViewController.m */,
+				94AAF0E320879079005243A0 /* Main.storyboard */,
+				94AAF0E620879079005243A0 /* Assets.xcassets */,
+				94AAF0E820879079005243A0 /* LaunchScreen.storyboard */,
+				94AAF0EB20879079005243A0 /* Info.plist */,
+				94AAF0EC20879079005243A0 /* main.m */,
 			);
-			path = "启动引导页";
+			path = "UIScrollView的使用";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		94BE07CE208B064B00BF2567 /* 启动引导页 */ = {
+		94AAF0D920879079005243A0 /* UIScrollView的使用 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 94BE07E5208B064B00BF2567 /* Build configuration list for PBXNativeTarget "启动引导页" */;
+			buildConfigurationList = 94AAF0F020879079005243A0 /* Build configuration list for PBXNativeTarget "UIScrollView的使用" */;
 			buildPhases = (
-				94BE07CB208B064B00BF2567 /* Sources */,
-				94BE07CC208B064B00BF2567 /* Frameworks */,
-				94BE07CD208B064B00BF2567 /* Resources */,
+				94AAF0D620879079005243A0 /* Sources */,
+				94AAF0D720879079005243A0 /* Frameworks */,
+				94AAF0D820879079005243A0 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "启动引导页";
-			productName = "启动引导页";
-			productReference = 94BE07CF208B064B00BF2567 /* 启动引导页.app */;
+			name = "UIScrollView的使用";
+			productName = "UIScrollView的使用";
+			productReference = 94AAF0DA20879079005243A0 /* UIScrollView的使用.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		94BE07C7208B064B00BF2567 /* Project object */ = {
+		94AAF0D220879079005243A0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = zouyb;
 				TargetAttributes = {
-					94BE07CE208B064B00BF2567 = {
+					94AAF0D920879079005243A0 = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = 94BE07CA208B064B00BF2567 /* Build configuration list for PBXProject "启动引导页" */;
+			buildConfigurationList = 94AAF0D520879079005243A0 /* Build configuration list for PBXProject "UIScrollView的使用" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,55 +114,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 94BE07C6208B064B00BF2567;
-			productRefGroup = 94BE07D0208B064B00BF2567 /* Products */;
+			mainGroup = 94AAF0D120879079005243A0;
+			productRefGroup = 94AAF0DB20879079005243A0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				94BE07CE208B064B00BF2567 /* 启动引导页 */,
+				94AAF0D920879079005243A0 /* UIScrollView的使用 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		94BE07CD208B064B00BF2567 /* Resources */ = {
+		94AAF0D820879079005243A0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				94BE07DF208B064B00BF2567 /* LaunchScreen.storyboard in Resources */,
-				94BE07DC208B064B00BF2567 /* Assets.xcassets in Resources */,
-				94BE07DA208B064B00BF2567 /* Main.storyboard in Resources */,
+				94AAF0EA20879079005243A0 /* LaunchScreen.storyboard in Resources */,
+				94AAF0E720879079005243A0 /* Assets.xcassets in Resources */,
+				94AAF0E520879079005243A0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		94BE07CB208B064B00BF2567 /* Sources */ = {
+		94AAF0D620879079005243A0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				94BE07D7208B064B00BF2567 /* ViewController.m in Sources */,
-				94BE07E2208B064B00BF2567 /* main.m in Sources */,
-				94BE07D4208B064B00BF2567 /* AppDelegate.m in Sources */,
+				94AAF0E220879079005243A0 /* ViewController.m in Sources */,
+				94AAF0ED20879079005243A0 /* main.m in Sources */,
+				94AAF0DF20879079005243A0 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		94BE07D8208B064B00BF2567 /* Main.storyboard */ = {
+		94AAF0E320879079005243A0 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				94BE07D9208B064B00BF2567 /* Base */,
+				94AAF0E420879079005243A0 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		94BE07DD208B064B00BF2567 /* LaunchScreen.storyboard */ = {
+		94AAF0E820879079005243A0 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				94BE07DE208B064B00BF2567 /* Base */,
+				94AAF0E920879079005243A0 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,7 +170,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		94BE07E3208B064B00BF2567 /* Debug */ = {
+		94AAF0EE20879079005243A0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -225,7 +225,7 @@
 			};
 			name = Debug;
 		};
-		94BE07E4208B064B00BF2567 /* Release */ = {
+		94AAF0EF20879079005243A0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -274,27 +274,27 @@
 			};
 			name = Release;
 		};
-		94BE07E6208B064B00BF2567 /* Debug */ = {
+		94AAF0F120879079005243A0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "启动引导页/Info.plist";
+				INFOPLIST_FILE = "UIScrollView的使用/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.zouyb.-----";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zouyb.UIScrollView---";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		94BE07E7208B064B00BF2567 /* Release */ = {
+		94AAF0F220879079005243A0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "启动引导页/Info.plist";
+				INFOPLIST_FILE = "UIScrollView的使用/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.zouyb.-----";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zouyb.UIScrollView---";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -303,25 +303,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		94BE07CA208B064B00BF2567 /* Build configuration list for PBXProject "启动引导页" */ = {
+		94AAF0D520879079005243A0 /* Build configuration list for PBXProject "UIScrollView的使用" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				94BE07E3208B064B00BF2567 /* Debug */,
-				94BE07E4208B064B00BF2567 /* Release */,
+				94AAF0EE20879079005243A0 /* Debug */,
+				94AAF0EF20879079005243A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		94BE07E5208B064B00BF2567 /* Build configuration list for PBXNativeTarget "启动引导页" */ = {
+		94AAF0F020879079005243A0 /* Build configuration list for PBXNativeTarget "UIScrollView的使用" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				94BE07E6208B064B00BF2567 /* Debug */,
-				94BE07E7208B064B00BF2567 /* Release */,
+				94AAF0F120879079005243A0 /* Debug */,
+				94AAF0F220879079005243A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 94BE07C7208B064B00BF2567 /* Project object */;
+	rootObject = 94AAF0D220879079005243A0 /* Project object */;
 }
